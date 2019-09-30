@@ -27,4 +27,5 @@ def using_concat
 end
 
 def using_insert
-  .insert
+  [4].insert(new element)
+end
