@@ -7,7 +7,7 @@ def using_unshift
 end
 
 def using_pop
-  .pop
+  continents.pop
 end
 
 def pop_with_args
