@@ -11,7 +11,7 @@ def using_pop
 end
 
 def pop_with_args
-  .pop(2)
+  dog_breeds.pop(2)
 end
 
 def using_shift
