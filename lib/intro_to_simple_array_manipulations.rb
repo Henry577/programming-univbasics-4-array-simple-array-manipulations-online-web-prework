@@ -25,3 +25,6 @@ end
 def using_concat
   my_favourite_things.concat
 end
+
+def using_insert
+  .insert
