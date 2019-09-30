@@ -8,3 +8,7 @@ end
 
 def using_pop
   .pop
+end
+
+def pop_with_args
+  
