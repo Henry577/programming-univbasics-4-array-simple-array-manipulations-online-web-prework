@@ -1,9 +1,9 @@
 def using_push
-  updated_array = colors_in_the_rainbow.push("violet")
+  colors_in_the_rainbow.push("violet")
 end
 
 def using_unshift
-  updated_array = bouroughs_in_nyc.unshift("Staten Island")
+  bouroughs_in_nyc.unshift("Staten Island")
 end
 
 def using_pop
