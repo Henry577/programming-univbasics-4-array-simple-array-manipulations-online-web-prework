@@ -3,4 +3,8 @@ def using_push
 end
 
 def using_unshift
-  .unshift("staten island")
+  .unshift("Staten Island")
+end
+
+def using_pop
+  .pop
