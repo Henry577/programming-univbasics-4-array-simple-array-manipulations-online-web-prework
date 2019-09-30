@@ -1,3 +1,3 @@
 def using_push
-  .push("word1")
+  .push("violet")
 end
