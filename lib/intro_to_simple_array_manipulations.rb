@@ -1,9 +1,9 @@
 def using_push
-  colors_in_the_rainbow.push("violet")
+  .push("violet")
 end
 
 def using_unshift
-  bouroughs_in_nyc.unshift("Staten Island")
+ .unshift("Staten Island")
 end
 
 def using_pop
