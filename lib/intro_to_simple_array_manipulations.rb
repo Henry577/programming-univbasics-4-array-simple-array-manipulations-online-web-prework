@@ -3,7 +3,7 @@ def using_push
 end
 
 def using_unshift
-  .unshift("Staten Island")
+  updated_array = .unshift("Staten Island")
 end
 
 def using_pop
