@@ -19,7 +19,7 @@ def using_shift
 end
 
 def shift_with_args
-  .shift(2)
+  ice_cream_brands.shift(2)
 end
 
 def using_concat
