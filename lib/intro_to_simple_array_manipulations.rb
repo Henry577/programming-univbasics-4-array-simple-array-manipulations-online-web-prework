@@ -15,7 +15,7 @@ def pop_with_args
 end
 
 def using_shift
-  .shift
+  my_favourite_cities.shift
 end
 
 def shift_with_args
